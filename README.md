@@ -9,9 +9,9 @@ A lot of misc code for Space Engine will be in this repo
 
 climate_analysis.py	- analysis of climate change
 
-weather.txt - needed file
+	weather.txt - needed file
 
 
 exoplanets.py	- exoplanetary analysis
 
-planets.csv-needed file
+	planets.csv-needed file
